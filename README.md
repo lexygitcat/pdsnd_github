@@ -18,12 +18,16 @@ Udacity Workspace
 
 
 ### Credits
+
+Weblinks:
+
 https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
 
 https://www.datacamp.com/community/tutorials/running-a-python-script
 
 https://www.python.org/dev/peps/pep-0008/
 
+Books:
 
 Coding Projects in Python by Carol Vorder
 
