@@ -18,5 +18,12 @@ Udacity Workspace
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
+
+https://www.datacamp.com/community/tutorials/running-a-python-script
+
+https://www.python.org/dev/peps/pep-0008/
+
+
+Coding Projects in Python by Carol Vorder
 
